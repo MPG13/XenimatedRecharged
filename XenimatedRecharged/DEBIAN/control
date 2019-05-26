@@ -1,0 +1,11 @@
+Package: com.mpg13.xenimatedrecharged
+Name: Xenimated: Recharged
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: XenHTML theme that adds media to your lockscreen when charging.
+Homepage: https://mpg13.github.io
+Depiction: https://mpg13.github.io/repo/depicts/xenimatedrecharged.html
+Maintainer: MPG13 <micahplacido@gmail.com>
+Author: MPG13 <micahplacido@gmail.com>
+Section: Addons (XenHTML)
