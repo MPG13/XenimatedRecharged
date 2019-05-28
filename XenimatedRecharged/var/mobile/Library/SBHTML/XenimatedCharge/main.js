@@ -1,4 +1,4 @@
-var wallpaper = "url('../../Xenimated/"+wallgif+"')";
+var wallpaper = "url('../../XenimatedCharge/"+wallgif+"')";
 
 
 

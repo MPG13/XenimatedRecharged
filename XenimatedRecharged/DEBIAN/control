@@ -6,6 +6,6 @@ Architecture: iphoneos-arm
 Description: XenHTML theme that adds media to your lockscreen when charging.
 Homepage: https://mpg13.github.io
 Depiction: https://mpg13.github.io/repo/depicts/xenimatedrecharged.html
-Maintainer: MPG13 <micahplacido@gmail.com>
-Author: MPG13 <micahplacido@gmail.com>
+Maintainer: MPG13 <mpg13@micahpgomez.dev>
+Author: MPG13 <mpg13@micahpgomez.dev>
 Section: Addons (XenHTML)
